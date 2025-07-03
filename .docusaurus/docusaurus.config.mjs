@@ -93,7 +93,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2023 - 2024  Created by Lihui. Sponsored By Beiji"
+      "copyright": "Copyright © 2023 - 2025  Created by Lihui. Sponsored By Beiji"
     },
     "prism": {
       "theme": {
